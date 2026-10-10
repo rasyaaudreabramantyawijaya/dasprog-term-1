@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-10",
+  "sources": [
+    {
+      "repository": "Tugas-Dasprog",
+      "url": "https://github.com/rasyaaudreabramantyawijaya/Tugas-Dasprog",
+      "default_branch": "main",
+      "commit": "1f68e44623eda76e00ac9781ed57ed34fc63a972",
+      "tree": "e9b76225f3e036de2c6589009cf9d6d05c9b88ae"
+    },
+    {
+      "repository": "Tugas-Dasprog-2",
+      "url": "https://github.com/rasyaaudreabramantyawijaya/Tugas-Dasprog-2",
+      "default_branch": "main",
+      "commit": "37312e72999c584b5c3643df6c0ab2924d92d9c7",
+      "tree": "eba9db7140d008a1022d93adebce2b67620465b3"
+    },
+    {
+      "repository": "Tugas-Dasprog-3",
+      "url": "https://github.com/rasyaaudreabramantyawijaya/Tugas-Dasprog-3",
+      "default_branch": "main",
+      "commit": "ab0fccba145f10ec16ba66ce10ee2f5163d768fe",
+      "tree": "dd30ad0c68ba48a8ec326b30ef8c2b36cbebe916"
+    },
+    {
+      "repository": "Revisi-Codingan",
+      "url": "https://github.com/rasyaaudreabramantyawijaya/Revisi-Codingan",
+      "default_branch": "main",
+      "commit": "4544f5812d7868e3620c7c888b653d2e4d02ef35",
+      "tree": "71ab7a049a96ec6487d9fde0f0c2b27a3522f3cf"
+    },
+    {
+      "repository": "Tugas-Dasprog-4",
+      "url": "https://github.com/rasyaaudreabramantyawijaya/Tugas-Dasprog-4",
+      "default_branch": "main",
+      "commit": "8c265b5317e927ee7012b8655890b343b5804dd1",
+      "tree": "1abda1cdd9faf4933aae62f42ad5d90aa31319c9"
+    }
+  ]
+}
